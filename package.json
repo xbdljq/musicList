@@ -18,6 +18,8 @@
   "homepage": "https://github.com/xbdljq/musicList#readme",
   "dependencies": {
     "leancloud-realtime": "^4.2.1",
-    "leancloud-storage": "^3.11.1"
+    "leancloud-storage": "^3.11.1",
+    "qiniu-js": "^1.0.22",
+    "plupload": "^2.3.2"
   }
 }
